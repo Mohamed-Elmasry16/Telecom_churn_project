@@ -8,8 +8,7 @@ Welcome! This guide is designed to help the Marketing Team get the most out of o
 Access the chatbot through your web browser at:
 **`http://localhost:8501`**
 
-![UI Overview](ui_main.png)
-*Typical view of the main dashboard.*
+
 
 ---
 
@@ -41,8 +40,6 @@ Type these directly into the chat box to see how the system responds:
 * **Scenario C:** *"Customers with no internet service and no phone service."*
 * **Scenario D:** *"List customers paying with electronic check and having a month-to-month contract."*
 
-![Query Example](query_example.png)
-*Example of a successful natural language query and result.*
 
 ---
 
