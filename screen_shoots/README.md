@@ -8,12 +8,12 @@ This directory contains visual documentation of the **AI-Powered Churn Assistant
 
 ### **1. UI Overview**
 The primary Streamlit dashboard designed for the marketing team. It features a clean chat interface, project overview sidebar, and sample query suggestions.
-![UI Overview](app_result3.png)
+![UI Overview](app_reult3.png)
 
 ### **2. Query Example**
 A demonstration of the natural language processing pipeline. The assistant parses a user query, filters the dataset, and displays the churn risk metrics and specific customer examples.
-![UI Overview](app_result4.png)
-![UI Overview](app_result5.png)
+![UI Overview](app_reult4.png)
+![UI Overview](app_reult5.png)
 
 ---
 
@@ -43,8 +43,8 @@ how the llm exract features in the write way
 ## 📂 Summary of Files
 | File Name | Description |
 | :--- | :--- |
-| `ui_main.png` | Main Streamlit interface and sidebar. |
-| `query_example.png` | Results of a live natural language query. |
-| `api_swagger.png` | FastAPI Swagger UI documentation. |
-| `architecture_diagram.png` | Visual flow of data between components. |
-| `model_analysis.png` | Training metrics and EDA from the notebook. |
+| `app_reult3.png` | Main Streamlit interface and sidebar. |
+| `app_result4,5.png` | Results of a live natural language query. |
+| `api_out1,2,3,4.png` | FastAPI Swagger UI documentation. |
+| `project_diagram.png` | Visual flow of data between components. |
+| `llm_output.png` | LLM that extract the features. |
